@@ -1,9 +1,0 @@
-<manifest>
-  <project name="Kaedo17/device_xiaomi_duchamp" path="device/xiaomi/duchamp" remote="github" />
-  <project name="mt6897-devs/device_xiaomi_duchamp-kernel" path="device/xiaomi/duchamp-kernel" remote="github" />
-  <project name="mt6897-devs/hardware_mediatek" path="hardware/mediatek" remote="github" />
-  <project name="mt6897-devs/hardware_xiaomi" path="hardware/xiaomi" remote="github" />
-  <project name="mt6897-devs/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" />
-  <project name="mt6897-devs/vendor_xiaomi_duchamp" path="vendor/xiaomi/duchamp" remote="github" />
-  <project name="mt6897-devs/android_kernel_6.1" path="kernel/xiaomi/mt6897" remote="github" />
-</manifest>
