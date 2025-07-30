@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="mt6897-devs" fetch="https://github.com/mt6897-devs" clone-depth="1" />
+    <remote name="Kaedo17" fetch="https://github.com/Kaedo17" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/xiaomi/duchamp-kernel" name="device_xiaomi_duchamp-kernel" remote="mt6897-devs" />
+    <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="mt6897-devs" />
+    <project path="device/xiaomi/duchamp" name="device_xiaomi_duchamp" remote="Kaedo17" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/mt6897" name="android_kernel_6.1" remote="mt6897-devs" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/duchamp" name="vendor_xiaomi_duchamp" remote="mt6897-devs" />
+
+    <!-- Vendor - Common -->
+
+    <!-- Hardware -->
+    <project path="hardware/mediatek" name="hardware_mediatek" remote="mt6897-devs" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="mt6897-devs" />
+
+</manifest>
